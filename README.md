@@ -61,5 +61,7 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 branch2_1
 branch2_2
 branch2_3
-
+branch1_1
+branch1_2
+branch1_3
 
